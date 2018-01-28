@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  roles:
+    - ansible-elk
+  become: true

@@ -1,0 +1,8 @@
+[kibana-{{ kibana.version }}]
+name=Kibana repository for {{ kibana.version }}.x packages
+baseurl=https://artifacts.elastic.co/packages/{{ kibana.version }}/yum
+gpgcheck=1
+gpgkey=https://artifacts.elastic.co/GPG-KEY-elasticsearch
+enabled=1
+autorefresh=1
+type=rpm-md
