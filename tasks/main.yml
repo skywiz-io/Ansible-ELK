@@ -19,5 +19,5 @@
 - name: Install Logstash
   include: logstash.yml
 
-- name: Load Kibana dashboards
-  include: dashboard.yml 
+#- name: Load Kibana dashboards
+#  include: dashboard.yml 
