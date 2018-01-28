@@ -19,5 +19,8 @@
 - name: Install Logstash
   include: logstash.yml
 
+- name: Restart Services
+  include: ../handlers/main.yml
+
 #- name: Load Kibana dashboards
 #  include: dashboard.yml 
