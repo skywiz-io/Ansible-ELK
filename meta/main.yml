@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: Arun prasath
+  author: SkyWiz based on Arun prasath's playbook on https://github.com/bingoarun/ansible-elk
   description: Ansible role to deploy ELK stack
   company: Wanclouds Inc
   # If the issue tracker for your role is not on github, uncomment the

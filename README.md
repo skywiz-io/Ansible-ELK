@@ -25,6 +25,7 @@ Example Playbook
 
 License
 -------
+This playbook is based on Arun’s Prasath one but did some changes to fit the ELK 6.x
 
 BSD
 
